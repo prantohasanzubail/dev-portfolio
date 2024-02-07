@@ -13,7 +13,7 @@ body {
         display: flex;
       }
   h1 {
-    font-size: 60px;
+    font-size: 50px;
   }
 .img-area img{
     width: 80%;
@@ -49,3 +49,22 @@ body {
     text-align: center;
 }
 
+
+
+.dream-sec{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+background-position: center right;
+display: flex;
+flex-direction: row-reverse;
+}
+
+.expiriance-list {
+    margin: 50px;
+    padding: 20px;
+    border-left: 5px solid #FF8911;
+    box-shadow: 1px 1px 30px 1px;
+}
+footer{
+    text-align: center;
+}
