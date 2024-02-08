@@ -17,7 +17,7 @@ body {
   }
 .img-area img{
     width: 80%;
-    
+    padding: 20px;
 }
 
 
@@ -46,7 +46,7 @@ body {
 }
 .con-area p{
     width: 80%;
-    text-align: center;
+    text-align: justify;
 }
 
 
@@ -84,10 +84,16 @@ flex-direction: row-reverse;
   border-image-slice: 1;
 }
 
-
+.expiriance{
+    background-image: url(images/exp-bg.png);
+    Background-position: left ;
+    background-repeat: no-repeat;
+}
 
 footer{
-    text-align: center;
+    text-align: justify;
+    padding: 20px;
+    
 }
 
 
