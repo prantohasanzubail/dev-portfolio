@@ -64,7 +64,33 @@ flex-direction: row-reverse;
     padding: 20px;
     border-left: 5px solid #FF8911;
     box-shadow: 1px 1px 30px 1px;
+    
 }
+
+
+.expiriance-list2 {
+    margin: 50px;
+    padding: 20px;
+    border-left: 5px solid white;
+    border-image: linear-gradient(red, blue, gold ,green );
+    box-shadow: 1px 1px 30px 1px;
+    
+}
+
+
+#lol{
+    border-left: 5px solid;
+  border-image: linear-gradient(blue, cyan);
+  border-image-slice: 1;
+}
+
+
+
 footer{
     text-align: center;
 }
+
+
+
+
+
